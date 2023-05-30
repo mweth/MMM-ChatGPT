@@ -45,7 +45,7 @@ Add the module to the `modules` array in the `config/config.js` file:
 ```javascript
 modules: [
     {
-        module: "MMM-ChatGPT",
+        module: "MMM-ChatGPT-Q",
         position: "bottom_bar", // This can be any of the MagicMirror regions.
         config: {
             updateInterval: 900,
