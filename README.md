@@ -22,13 +22,13 @@ cd ~/MagicMirror/modules
 ```
 Clone this repository:
 ```shell
-git clone https://github.com/ImanuelBertrand/MMM-ChatGPT.git
+git clone https://github.com/mweth/MMM-ChatGPT-Q.git
 ```
 
 Add the following minimum configuration block to the modules array in the `config/config.js` file and adjust it to your liking:
 ```js
 {
-    module: 'MMM-ChatGPT',
+    module: 'MMM-ChatGPT-Q',
     position: 'bottom_bar',
     config: {
         apiKey: '[Your API Key]',
