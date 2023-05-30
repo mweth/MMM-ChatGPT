@@ -1,10 +1,10 @@
 /* Magic Mirror
- * Module: MMM-ChatGPT
+ * Module: MMM-ChatGPT-Q
  *
  * MIT Licensed.
  */
 
-Module.register("MMM-ChatGPT", {
+Module.register("MMM-ChatGPT-Q", {
 
     // Default module config.
     defaults: {
